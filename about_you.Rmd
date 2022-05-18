@@ -1,5 +1,5 @@
 ---
-title: "First Knit"
+title: "Jessica Villa"
 author: "Your Name"
 output: 
   html_document:
@@ -17,7 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+  I went to East Side High School and I graduated in 2013. I feel like English is a little harder for me because of the essays and I feel like math is more simple because you just solve problems and depending what math class it is  
 
      
 
